@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+#btn {
+  background-color:red;
+  border-radius: 4px;
+}
+
+h1 {
+  color: violet;
+}
+
+body {
+  background-image:url("https://media1.giphy.com/media/2A75RyXVzzSI2bx4Gj/200w.webp?cid=ecf05e47s14948mugemubvkm4harnjhi2vdswnj2f2vy7fix&ep=v1_gifs_search&rid=200w.webp&ct=g");
+  text-align: center;
+  background-size: cover;
+}
